@@ -5,6 +5,7 @@
     "node": "9.8.0"
   },
   "description": "backend for rn app",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
   },
